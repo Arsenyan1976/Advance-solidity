@@ -1,10 +1,10 @@
 # Advance-solidity
 
 ### For this homewor we had 2 starter codes to start with:
-`Crowdsale.sol` -- Level 1 starter code.
+`Crowdsale.sol` 
 
 
-`PupperCoin.sol` -- Level 2 starter code.
+`PupperCoin.sol` 
 
 
 
@@ -12,7 +12,7 @@ We need to make sure that we are successfuly connectined to Kovan Test Network  
 After finishing the code in contract  contract we compile it and deploy it accourding the pictures presented:
 
 
-![1](Images/1.png)
+![1](Images/1.png)s
 
 ![2](Images/2.png)
 
